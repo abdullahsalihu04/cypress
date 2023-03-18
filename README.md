@@ -25,4 +25,5 @@ Code editor helps us to run the project and the code. I suggest the most famous 
 <h2> After you have the project locally, run the following in your terminal: </h2>
 
 <h5> npm install </h5>
+<h5> npm run start </h5>
 <h5> npm run test </h5>
